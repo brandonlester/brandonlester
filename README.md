@@ -7,9 +7,12 @@ I'm a **Senior Data Scientist** at AMEND Consulting. I wear multiple hats across
 
 ## 🏈 Sports Analytics
 
-When I'm not solving client problems, you'll find me diving into **sports analytics**, where I explore the intersection of statistics and athletics. See my work from past **NFL Big Data Bowl** events here:
-* [Pressures vs Expectation](https://www.kaggle.com/code/brandonlester/pressures-vs-expectation)
-* [Block Shed Score](https://www.kaggle.com/code/brandonlester/block-shed-score)
+When I'm not solving client problems, you'll find me diving into **sports analytics**, where I explore the intersection of statistics and athletics. 
+
+* NFL Big Data Bowl 2023: [Pressures vs Expectation](https://www.kaggle.com/code/brandonlester/pressures-vs-expectation)
+* NFL Big Data Bowl 2024: [Block Shed Score](https://www.kaggle.com/code/brandonlester/block-shed-score)
+* March Machine Learning Mania 2022: [Silver Medal](https://www.kaggle.com/competitions/mens-march-mania-2022/leaderboard?)
+
 
 ## 💻 Open Source Interests
 
